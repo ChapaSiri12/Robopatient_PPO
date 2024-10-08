@@ -1,7 +1,0 @@
-    Trial_No     F_Thresh   Pain_Sound          Amp        Pitch       Choice
-           1           20            1            1            1            n
-           2            5            1            1            1            1
-           3           10            2            1            1            1
-           4           15            2            1            1            n
-           5           20            3            1            1            1
-           6            5            3            1            1            n
